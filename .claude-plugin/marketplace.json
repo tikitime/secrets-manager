@@ -1,0 +1,17 @@
+{
+  "name": "secrets-manager",
+  "owner": {
+    "name": "tikisen"
+  },
+  "metadata": {
+    "description": "Private marketplace hosting the secrets-manager plugin.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "secrets-manager",
+      "source": "./",
+      "description": "Guided ENV→1Password migration + ongoing rotation hygiene. Private — install only if you've been given access to this repo."
+    }
+  ]
+}

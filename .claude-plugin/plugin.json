@@ -1,0 +1,9 @@
+{
+  "name": "secrets-manager",
+  "version": "0.1.0",
+  "description": "Guided ENV→1Password migration and ongoing secret hygiene. Walks one person through moving plaintext .env secrets into 1Password (consumed via op:// references), then keeps them rotated by filing Notion tasks. Account-agnostic: configured per user during onboarding.",
+  "author": {
+    "name": "TQ Senkungu"
+  },
+  "keywords": ["1password", "secrets", "credentials", "rotation", "op", "env", "onboarding"]
+}

@@ -1,0 +1,9 @@
+# Local per-user config (never commit real values)
+secrets-manager.local.md
+
+# OS junk
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
